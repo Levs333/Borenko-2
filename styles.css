@@ -1,0 +1,27 @@
+header h1{
+    background-color: rgb(127, 0, 181);
+    text-align:center;
+    color:rgba(216, 73, 152, 0.844);
+}
+
+h1 img{
+    width:139px;
+}
+nav{
+    margin: 10px 0px;
+    text-align: center;
+}
+nav a {
+    padding-right: 60px;
+
+    background-color: darkorchid;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(152, 0, 150);
+
+}
